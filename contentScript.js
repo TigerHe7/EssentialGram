@@ -1,7 +1,7 @@
 'use strict';
 
 var removeMetrics = () => {
-  for(var i = document.links.length - 1; i >= 0; i--) {
+  for(var i = document.links.length - 1; i >= 0; --i) {
     if (document.links[i].href.includes('liked_by') ||
         document.links[i].href.includes('following') ||
         document.links[i].href.includes('followers')) {
