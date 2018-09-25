@@ -1,5 +1,6 @@
-# EssentialGram
-Chrome extension for transforming your Instagram experience from comparing to connecting
+# EssentialGram &nbsp; ![logo](https://github.com/tigerhe7/essentialgram/raw/master/images/logo_32.png) 
+
+Chrome extension for transforming your Instagram experience from comparing to connecting.
 
 Removes likes from timeline and follower / following counts from profiles.
 
