@@ -7,6 +7,5 @@ Removes likes from timeline and follower / following counts from profiles.
 ---
 
 Features to be Implemented:
-* Removing likes from photos on profiles
 * Providing options to toggle metric hiding
-* Optimizing when metrics are removed
+* Optimizing when follwer metrics are removed in profile view
