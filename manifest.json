@@ -25,7 +25,8 @@
     {
       "matches": ["*://www.instagram.com/*"],
       "run_at": "document_start",
-      "js": ["contentScript.js"]
+      "js": ["contentScript.js"],
+      "css": ["style.css"]
     }
   ],
   "manifest_version": 2
